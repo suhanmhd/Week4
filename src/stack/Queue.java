@@ -1,6 +1,11 @@
 package stack;
 
 public class Queue {
+    public  int size;
+    Queue(){
+        this.size=0;
+
+    }
 
     public  class Node{
         int data;
@@ -15,17 +20,44 @@ public class Queue {
     public Node rear;
 
 
+//    public void enqueue(int data){
+//        Node newnode = new Node(data);
+//        if(rear==null){
+//            front=rear=newnode;
+//            return;
+//        }
+//        else{
+//            rear.next=newnode;
+//            rear=newnode;
+//        }
+//    }
+
+
     public void enqueue(int data){
+
         Node newnode = new Node(data);
         if(rear==null){
             front=rear=newnode;
+            size++;
             return;
+
         }
         else{
             rear.next=newnode;
+
             rear=newnode;
+            size++;
+            int k=size;
+            while (k>1){
+                rear.next=front;
+                front=front.next;
+                rear=rear.next;
+                rear.next=null;
+                k--;
+            }
         }
     }
+
 
     public void dequeue(){
         if(front==null){
@@ -55,6 +87,8 @@ public class Queue {
         queue.enqueue(3);
         queue.enqueue(4);
         queue.display();
+        System.out.println();
+        queue.dequeue();
         queue.dequeue();
         queue.display();
 

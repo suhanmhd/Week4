@@ -1,0 +1,17 @@
+
+n
+java:S2293%"YReplace the type specification in this constructor call with the diamond operator ("<>").(éĞÈJ
+f
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(åëß
+f
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(™×ùØ
+h	java:S100
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠŒê—ıÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(–ñ–à
+L
+java:S1854%"7Remove this useless assignment to local variable "set".(éĞÈJ
+E	java:S106""+Replace this use of System.out by a logger.(­½Â»ÿÿÿÿÿ
+V	java:S125 "<This block of commented-out lines of code should be removed.(µû³¹úÿÿÿÿ
+E	java:S106#"+Replace this use of System.out by a logger.(­½Â»ÿÿÿÿÿ
+=
+java:S1481%"(Remove this unused "set" local variable.(éĞÈJ

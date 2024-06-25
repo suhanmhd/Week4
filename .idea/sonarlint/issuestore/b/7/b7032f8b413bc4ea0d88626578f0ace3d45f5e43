@@ -1,0 +1,11 @@
+
+P
+java:S1121".Extract the assignment out of this expression.(Îßè±úÿÿÿÿ8’¡©÷Õ1
+¤
+java:S2681"†This line will not be executed conditionally; only the first line of this 4-line block will be. The rest will execute unconditionally.(µß­8•¡©÷Õ1
+N
+java:S1197",Move the array designators [][] to the type.(ò¬İıÿÿÿÿ8¤¡©÷Õ1
+]	java:S125"<This block of commented-out lines of code should be removed.(åøÖûÿÿÿÿ8§¡©÷Õ1
+]	java:S125"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8§¡©÷Õ1
+]	java:S125$"<This block of commented-out lines of code should be removed.(Ù€üşÿÿÿÿ8©¡©÷Õ1
+L	java:S106M"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8¬¡©÷Õ1

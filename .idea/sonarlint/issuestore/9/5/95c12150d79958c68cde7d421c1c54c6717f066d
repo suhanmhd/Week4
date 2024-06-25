@@ -1,0 +1,16 @@
+
+P
+java:S1121#".Extract the assignment out of this expression.(åĞŞìøÿÿÿÿ8¶’êëÕ1
+r	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É€ï«ÿÿÿÿÿ8·’êëÕ1
+m	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÌ€°8·’êëÕ1
+X	java:S125"<This block of commented-out lines of code should be removed.(”•ñê8Ì’êëÕ1
+N
+java:S1197)",Move the array designators [][] to the type.(…´ˆ‰øÿÿÿÿ8Ñ’êëÕ1
+G
+java:S1197,"*Move the array designators [] to the type.(ÊÖŞá8Ò’êëÕ1
+L
+java:S11973"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8Ô’êëÕ1
+L
+java:S11974"*Move the array designators [] to the type.(«†øïúÿÿÿÿ8Õ’êëÕ1
+L	java:S1069"+Replace this use of System.out by a logger.(ÙÊîµÿÿÿÿÿ8Ö’êëÕ1

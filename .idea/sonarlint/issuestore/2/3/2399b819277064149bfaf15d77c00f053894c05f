@@ -1,0 +1,15 @@
+
+j
+java:S1104"OMake arr a static final constant or non-public and provide accessors if needed.(ÖöıÃúÿÿÿÿ
+k
+java:S1104"PMake size a static final constant or non-public and provide accessors if needed.(õ˜óøÿÿÿÿ
+k
+java:S1104"PMake rear a static final constant or non-public and provide accessors if needed.(øÊÀ½úÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(ÖöıÃúÿÿÿÿ
+-
+java:S2757"Was "-=" meant instead?(ìè¢¾
+@	java:S106"+Replace this use of System.out by a logger.(ş…ËÎ
+E	java:S106!"+Replace this use of System.out by a logger.(àë¯ûÿÿÿÿ
+@	java:S1061"+Replace this use of System.out by a logger.(éÍãË
+E	java:S106@"+Replace this use of System.out by a logger.(›¿úÿÿÿÿÿ
